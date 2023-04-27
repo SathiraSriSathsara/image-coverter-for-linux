@@ -1,2 +1,16 @@
-# image-coverter-for-linux
-Script to convert PNG files to SVG format using ImageMagick.
+## About this script
+
+The script will check if ImageMagick is installed, if the input file is specified and exists, if it is a PNG image, and then it will convert it to SVG format using the convert command from ImageMagick. The output file will have the same name as the input file, with the extension changed to .svg.
+
+## Commands
+on your Ubuntu machine, and make it executable using the command:
+
+```bash
+chmod +x png-to-svg.sh
+```
+
+Then, to convert a PNG file to SVG format, run the script with the PNG file as an argument, like this:
+
+```bash
+./png-to-svg.sh input_file.png
+```
