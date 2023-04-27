@@ -2,6 +2,15 @@
 
 The script will check if ImageMagick is installed, if the input file is specified and exists, if it is a PNG image, and then it will convert it to SVG format using the convert command from ImageMagick. The output file will have the same name as the input file, with the extension changed to .svg.
 
+## Install
+Install in Ubuntu:
+
+```bash
+git clone https://github.com/SathiraSriSathsara/image-coverter-for-linux.git
+sudo apt-get update
+sudo apt-get install imagemagick
+```
+
 ## Commands
 on your Ubuntu machine, and make it executable using the command:
 
