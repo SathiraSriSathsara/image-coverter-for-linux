@@ -25,6 +25,6 @@ Then, to convert a PNG file to SVG format, run the script with the PNG file as a
 ```
 
 <div align="center">
-	<a href="https://cdn.discordapp.com/attachments/703935965630169218/1092251736829333574/SathiraCV.jpg" target="_blank"><img src="dp-wp-yt-round.png" width="40" height="50">
-	<h4>Sathira Sri Sathsara @ 2023</h4></a>
+	<img src="https://github.com/SathiraSriSathsara/SathiraSriSathsara/blob/main/dp-wp-yt-round.png" width="40" height="50">
+	<h4>Sathira Sri Sathsara @ 2023</h4>
 </div>	
